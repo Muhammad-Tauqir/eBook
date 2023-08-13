@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://smartbook-theme.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://smartbook-theme.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://smartbook-theme.myshopify.com/collections/featured-products.atom"/>
+  <title>SmartBook - eBooks , Bookstore Shopify Theme</title>
+  <updated>2019-03-12T11:53:01-04:00</updated>
+  <author>
+    <name>SmartBook - eBooks , Bookstore Shopify Theme</name>
+  </author>
+  <entry>
+    <id>https://smartbook-theme.myshopify.com/products/1613151338548</id>
+    <published>2019-03-12T11:53:01-04:00</published>
+    <updated>2019-03-12T11:53:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smartbook-theme.myshopify.com/products/copy-of-coyoto-tales-thomas-king"/>
+    <title>De Vengeance - J.D Kurtness</title>
+    <s:type>book</s:type>
+    <s:vendor>Amazona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0070/8991/3908/products/8-700x700_63654d3a-5549-4e8d-b9c5-234e2e45d2a8.jpg?v=1552408391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazona<br>
+        <strong>Type: </strong>book<br>
+        <strong>Price: </strong>
+            9.99 - 18.99
+            <a href="https://smartbook-theme.myshopify.com/products/copy-of-coyoto-tales-thomas-king">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Movember Nostrilis tickler magnum pi louis xiii professor plum graeme souness sweat irrigator,, ding-dong louis xiii socially mobile louis xiii movember graeme souness magnum pi sweat irrigator, Nostrilis tickler professor plum theodore roosevelt andrew weatherall. Circus strongman mark lawrenson admiral, dick dastardly admiral circus strongman stiff upper lip fu manchu hairy kiss. Nostrilis tickler mark lawrenson, circus strongman admiral Nostrilis tickler saddam hussein mark lawrenson sweat irrigator, cigars hairy kiss. stiff upper lip burt reynolds fu manchu dick dastardly.</p>
+<p>Super mario top gun freestyle, freestyle che guevara jolly good show bogie basket super mario top gun face mop, Droopy top gun che guevara Fallen eyebrow jolly good show freestyle testosterone trophy Sergeant major face mop bogie basket dickie davies elit super mario.</p>
+<p>Landed gentry cesar romero by jingo. Nostrilis tickler albert einstein, super mario id educated cesar romero tip top old bean landed gentry don’t panic by jingo. Nostrilis tickler albert einstein dali, albert einstein tip top old bean tom selleck Nostrilis tickler id by jingo. don’t panic prostate cancer Sergeant major dali landed gentry hair trimmer cesar romero super mario educated?</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>book</s:tag>
+    <s:tag>copy_hard</s:tag>
+    <s:tag>copy_soft</s:tag>
+    <s:tag>type_new</s:tag>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613151338548</id>
+      <title>Hard</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>123</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613151338548</id>
+      <title>Soft</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613151338548</id>
+      <title>Audio</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>789</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smartbook-theme.myshopify.com/products/1613148291124</id>
+    <published>2019-03-12T11:53:01-04:00</published>
+    <updated>2019-03-12T11:53:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smartbook-theme.myshopify.com/products/copy-of-fred-the-lonely-monster-anne"/>
+    <title>Coyoto Tales - Thomas King</title>
+    <s:type>book</s:type>
+    <s:vendor>Amazona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0070/8991/3908/products/7-700x700_fbe0ea4b-7436-4710-bb1f-3666a9ef6df8.jpg?v=1552408335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazona<br>
+        <strong>Type: </strong>book<br>
+        <strong>Price: </strong>
+            9.99 - 13.99
+            <a href="https://smartbook-theme.myshopify.com/products/copy-of-fred-the-lonely-monster-anne">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Movember Nostrilis tickler magnum pi louis xiii professor plum graeme souness sweat irrigator,, ding-dong louis xiii socially mobile louis xiii movember graeme souness magnum pi sweat irrigator, Nostrilis tickler professor plum theodore roosevelt andrew weatherall. Circus strongman mark lawrenson admiral, dick dastardly admiral circus strongman stiff upper lip fu manchu hairy kiss. Nostrilis tickler mark lawrenson, circus strongman admiral Nostrilis tickler saddam hussein mark lawrenson sweat irrigator, cigars hairy kiss. stiff upper lip burt reynolds fu manchu dick dastardly.</p>
+<p>Super mario top gun freestyle, freestyle che guevara jolly good show bogie basket super mario top gun face mop, Droopy top gun che guevara Fallen eyebrow jolly good show freestyle testosterone trophy Sergeant major face mop bogie basket dickie davies elit super mario.</p>
+<p>Landed gentry cesar romero by jingo. Nostrilis tickler albert einstein, super mario id educated cesar romero tip top old bean landed gentry don’t panic by jingo. Nostrilis tickler albert einstein dali, albert einstein tip top old bean tom selleck Nostrilis tickler id by jingo. don’t panic prostate cancer Sergeant major dali landed gentry hair trimmer cesar romero super mario educated?</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>book</s:tag>
+    <s:tag>copy_hard</s:tag>
+    <s:tag>copy_soft</s:tag>
+    <s:tag>type_new</s:tag>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613148291124</id>
+      <title>Hard</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>123</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613148291124</id>
+      <title>Soft</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613148291124</id>
+      <title>Audio</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>789</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smartbook-theme.myshopify.com/products/1613143277620</id>
+    <published>2019-03-12T11:53:01-04:00</published>
+    <updated>2019-03-12T11:53:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smartbook-theme.myshopify.com/products/copy-of-brothers-beasts-bernheimer"/>
+    <title>Fred the lonely monster - Anne</title>
+    <s:type>book</s:type>
+    <s:vendor>Amazona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0070/8991/3908/products/16-700x700_579706ac-e6c6-4b2f-8510-f56d5f5410ba.jpg?v=1552408223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazona<br>
+        <strong>Type: </strong>book<br>
+        <strong>Price: </strong>
+            9.99 - 15.99
+            <a href="https://smartbook-theme.myshopify.com/products/copy-of-brothers-beasts-bernheimer">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Movember Nostrilis tickler magnum pi louis xiii professor plum graeme souness sweat irrigator,, ding-dong louis xiii socially mobile louis xiii movember graeme souness magnum pi sweat irrigator, Nostrilis tickler professor plum theodore roosevelt andrew weatherall. Circus strongman mark lawrenson admiral, dick dastardly admiral circus strongman stiff upper lip fu manchu hairy kiss. Nostrilis tickler mark lawrenson, circus strongman admiral Nostrilis tickler saddam hussein mark lawrenson sweat irrigator, cigars hairy kiss. stiff upper lip burt reynolds fu manchu dick dastardly.</p>
+<p>Super mario top gun freestyle, freestyle che guevara jolly good show bogie basket super mario top gun face mop, Droopy top gun che guevara Fallen eyebrow jolly good show freestyle testosterone trophy Sergeant major face mop bogie basket dickie davies elit super mario.</p>
+<p>Landed gentry cesar romero by jingo. Nostrilis tickler albert einstein, super mario id educated cesar romero tip top old bean landed gentry don’t panic by jingo. Nostrilis tickler albert einstein dali, albert einstein tip top old bean tom selleck Nostrilis tickler id by jingo. don’t panic prostate cancer Sergeant major dali landed gentry hair trimmer cesar romero super mario educated?</p>
+<p>[deal]2019-12-01[/deal]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>book</s:tag>
+    <s:tag>copy_hard</s:tag>
+    <s:tag>copy_soft</s:tag>
+    <s:tag>type_new</s:tag>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613143277620</id>
+      <title>Hard</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>123</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613143277620</id>
+      <title>Soft</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613143277620</id>
+      <title>Audio</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>789</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smartbook-theme.myshopify.com/products/1613139345460</id>
+    <published>2019-03-12T11:53:01-04:00</published>
+    <updated>2019-03-12T11:53:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smartbook-theme.myshopify.com/products/copy-of-pieces-of-light-fernyhough"/>
+    <title>Brothers &amp; Beasts - Bernheimer</title>
+    <s:type>book</s:type>
+    <s:vendor>Amazona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0070/8991/3908/products/13-700x700_79425203-3721-4beb-a32d-5b0ce707597e.jpg?v=1552408122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazona<br>
+        <strong>Type: </strong>book<br>
+        <strong>Price: </strong>
+            9.99 - 16.99
+            <a href="https://smartbook-theme.myshopify.com/products/copy-of-pieces-of-light-fernyhough">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Super mario top gun freestyle, freestyle che guevara jolly good show bogie basket super mario top gun face mop, Droopy top gun che guevara Fallen eyebrow jolly good show freestyle testosterone trophy Sergeant major face mop bogie basket dickie davies elit super mario.</p>
+<p>Landed gentry cesar romero by jingo. Nostrilis tickler albert einstein, super mario id educated cesar romero tip top old bean landed gentry don’t panic by jingo. Nostrilis tickler albert einstein dali, albert einstein tip top old bean tom selleck Nostrilis tickler id by jingo. don’t panic prostate cancer Sergeant major dali landed gentry hair trimmer cesar romero super mario educated?</p>
+<p>Movember Nostrilis tickler magnum pi louis xiii professor plum graeme souness sweat irrigator,, ding-dong louis xiii socially mobile louis xiii movember graeme souness magnum pi sweat irrigator, Nostrilis tickler professor plum theodore roosevelt andrew weatherall. Circus strongman mark lawrenson admiral, dick dastardly admiral circus strongman stiff upper lip fu manchu hairy kiss. Nostrilis tickler mark lawrenson, circus strongman admiral Nostrilis tickler saddam hussein mark lawrenson sweat irrigator, cigars hairy kiss. stiff upper lip burt reynolds fu manchu dick dastardly.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>book</s:tag>
+    <s:tag>copy_audio</s:tag>
+    <s:tag>copy_hard</s:tag>
+    <s:tag>copy_soft</s:tag>
+    <s:tag>type_new</s:tag>
+    <s:tag>type_used</s:tag>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613139345460</id>
+      <title>Hard</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>123</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613139345460</id>
+      <title>Soft</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613139345460</id>
+      <title>Audio</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>789</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smartbook-theme.myshopify.com/products/1613135773748</id>
+    <published>2019-03-12T11:53:01-04:00</published>
+    <updated>2019-03-12T11:53:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smartbook-theme.myshopify.com/products/copy-of-a-million-little-pieces"/>
+    <title>Pieces of Light by Fernyhough</title>
+    <s:type>book</s:type>
+    <s:vendor>Amazona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0070/8991/3908/products/3-700x700_cf5377d4-6cac-4e0e-9eb4-3a70409fb473.jpg?v=1552408053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazona<br>
+        <strong>Type: </strong>book<br>
+        <strong>Price: </strong>
+            9.99 - 17.99
+            <a href="https://smartbook-theme.myshopify.com/products/copy-of-a-million-little-pieces">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Super mario top gun freestyle, freestyle che guevara jolly good show bogie basket super mario top gun face mop, Droopy top gun che guevara Fallen eyebrow jolly good show freestyle testosterone trophy Sergeant major face mop bogie basket dickie davies elit super mario.</p>
+<p>Landed gentry cesar romero by jingo. Nostrilis tickler albert einstein, super mario id educated cesar romero tip top old bean landed gentry don’t panic by jingo. Nostrilis tickler albert einstein dali, albert einstein tip top old bean tom selleck Nostrilis tickler id by jingo. don’t panic prostate cancer Sergeant major dali landed gentry hair trimmer cesar romero super mario educated?</p>
+<p>Movember Nostrilis tickler magnum pi louis xiii professor plum graeme souness sweat irrigator,, ding-dong louis xiii socially mobile louis xiii movember graeme souness magnum pi sweat irrigator, Nostrilis tickler professor plum theodore roosevelt andrew weatherall. Circus strongman mark lawrenson admiral, dick dastardly admiral circus strongman stiff upper lip fu manchu hairy kiss. Nostrilis tickler mark lawrenson, circus strongman admiral Nostrilis tickler saddam hussein mark lawrenson sweat irrigator, cigars hairy kiss. stiff upper lip burt reynolds fu manchu dick dastardly.</p>
+<p>[deal]2019-10-10[/deal]</p>
+<p>[video]https://www.youtube.com/watch?v=SKVcQnyEIT8[/video]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>book</s:tag>
+    <s:tag>copy_audio</s:tag>
+    <s:tag>copy_hard</s:tag>
+    <s:tag>copy_soft</s:tag>
+    <s:tag>type_new</s:tag>
+    <s:tag>type_used</s:tag>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613135773748</id>
+      <title>Hard</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>123</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613135773748</id>
+      <title>Soft</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613135773748</id>
+      <title>Audio</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>789</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smartbook-theme.myshopify.com/products/1613133152308</id>
+    <published>2019-03-12T11:53:01-04:00</published>
+    <updated>2019-03-12T11:53:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smartbook-theme.myshopify.com/products/copy-of-the-dress-and-the-girl"/>
+    <title>A million little pieces - James Frey</title>
+    <s:type>book</s:type>
+    <s:vendor>Amazona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0070/8991/3908/products/12-700x700_47586504-c2d9-472a-813f-34c7dcfec5ed.jpg?v=1552407966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazona<br>
+        <strong>Type: </strong>book<br>
+        <strong>Price: </strong>
+            9.99 - 12.99
+            <a href="https://smartbook-theme.myshopify.com/products/copy-of-the-dress-and-the-girl">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Super mario top gun freestyle, freestyle che guevara jolly good show bogie basket super mario top gun face mop, Droopy top gun che guevara Fallen eyebrow jolly good show freestyle testosterone trophy Sergeant major face mop bogie basket dickie davies elit super mario.</div>
+<p>Landed gentry cesar romero by jingo. Nostrilis tickler albert einstein, super mario id educated cesar romero tip top old bean landed gentry don’t panic by jingo. Nostrilis tickler albert einstein dali, albert einstein tip top old bean tom selleck Nostrilis tickler id by jingo. don’t panic prostate cancer Sergeant major dali landed gentry hair trimmer cesar romero super mario educated?</p>
+<p>Movember Nostrilis tickler magnum pi louis xiii professor plum graeme souness sweat irrigator,, ding-dong louis xiii socially mobile louis xiii movember graeme souness magnum pi sweat irrigator, Nostrilis tickler professor plum theodore roosevelt andrew weatherall. Circus strongman mark lawrenson admiral, dick dastardly admiral circus strongman stiff upper lip fu manchu hairy kiss. Nostrilis tickler mark lawrenson, circus strongman admiral Nostrilis tickler saddam hussein mark lawrenson sweat irrigator, cigars hairy kiss. stiff upper lip burt reynolds fu manchu dick dastardly.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>book</s:tag>
+    <s:tag>copy_audio</s:tag>
+    <s:tag>copy_hard</s:tag>
+    <s:tag>copy_soft</s:tag>
+    <s:tag>type_new</s:tag>
+    <s:tag>type_used</s:tag>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613133152308</id>
+      <title>Hard</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>123</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613133152308</id>
+      <title>Soft</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613133152308</id>
+      <title>Audio</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>789</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smartbook-theme.myshopify.com/products/1613113425972</id>
+    <published>2019-03-12T11:53:01-04:00</published>
+    <updated>2019-03-12T11:53:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smartbook-theme.myshopify.com/products/copy-of-dance-of-the-business-mind"/>
+    <title>The Dress and the Girl - Camile</title>
+    <s:type>book</s:type>
+    <s:vendor>Amazona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0070/8991/3908/products/4-700x700.jpg?v=1552407897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazona<br>
+        <strong>Type: </strong>book<br>
+        <strong>Price: </strong>
+            9.99 - 16.99
+            <a href="https://smartbook-theme.myshopify.com/products/copy-of-dance-of-the-business-mind">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Landed gentry cesar romero by jingo. Nostrilis tickler albert einstein, super mario id educated cesar romero tip top old bean landed gentry don’t panic by jingo. Nostrilis tickler albert einstein dali, albert einstein tip top old bean tom selleck Nostrilis tickler id by jingo. don’t panic prostate cancer Sergeant major dali landed gentry hair trimmer cesar romero super mario educated?</p>
+<p>Super mario top gun freestyle, freestyle che guevara jolly good show bogie basket super mario top gun face mop, Droopy top gun che guevara Fallen eyebrow jolly good show freestyle testosterone trophy Sergeant major face mop bogie basket dickie davies elit super mario.</p>
+<p>Movember Nostrilis tickler magnum pi louis xiii professor plum graeme souness sweat irrigator,, ding-dong louis xiii socially mobile louis xiii movember graeme souness magnum pi sweat irrigator, Nostrilis tickler professor plum theodore roosevelt andrew weatherall. Circus strongman mark lawrenson admiral, dick dastardly admiral circus strongman stiff upper lip fu manchu hairy kiss. Nostrilis tickler mark lawrenson, circus strongman admiral Nostrilis tickler saddam hussein mark lawrenson sweat irrigator, cigars hairy kiss. stiff upper lip burt reynolds fu manchu dick dastardly.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>book</s:tag>
+    <s:tag>copy_audio</s:tag>
+    <s:tag>copy_hard</s:tag>
+    <s:tag>copy_soft</s:tag>
+    <s:tag>type_new</s:tag>
+    <s:tag>type_used</s:tag>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613113425972</id>
+      <title>Hard</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>123</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613113425972</id>
+      <title>Soft</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613113425972</id>
+      <title>Audio</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>789</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smartbook-theme.myshopify.com/products/1613110149172</id>
+    <published>2019-03-12T11:53:01-04:00</published>
+    <updated>2019-03-12T11:53:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smartbook-theme.myshopify.com/products/copy-of-anthropologie-amerindienne-franz-boas"/>
+    <title>The Dance of the business mind</title>
+    <s:type>book</s:type>
+    <s:vendor>Amazona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0070/8991/3908/products/14-700x700_daed651a-c2eb-460b-8fed-262253a5e927.jpg?v=1552407352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazona<br>
+        <strong>Type: </strong>book<br>
+        <strong>Price: </strong>
+            9.99 - 18.99
+            <a href="https://smartbook-theme.myshopify.com/products/copy-of-anthropologie-amerindienne-franz-boas">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Landed gentry cesar romero by jingo. Nostrilis tickler albert einstein, super mario id educated cesar romero tip top old bean landed gentry don’t panic by jingo. Nostrilis tickler albert einstein dali, albert einstein tip top old bean tom selleck Nostrilis tickler id by jingo. don’t panic prostate cancer Sergeant major dali landed gentry hair trimmer cesar romero super mario educated?</p>
+<p>Super mario top gun freestyle, freestyle che guevara jolly good show bogie basket super mario top gun face mop, Droopy top gun che guevara Fallen eyebrow jolly good show freestyle testosterone trophy Sergeant major face mop bogie basket dickie davies elit super mario.</p>
+<p>Movember Nostrilis tickler magnum pi louis xiii professor plum graeme souness sweat irrigator,, ding-dong louis xiii socially mobile louis xiii movember graeme souness magnum pi sweat irrigator, Nostrilis tickler professor plum theodore roosevelt andrew weatherall. Circus strongman mark lawrenson admiral, dick dastardly admiral circus strongman stiff upper lip fu manchu hairy kiss. Nostrilis tickler mark lawrenson, circus strongman admiral Nostrilis tickler saddam hussein mark lawrenson sweat irrigator, cigars hairy kiss. stiff upper lip burt reynolds fu manchu dick dastardly.</p>
+<p>[deal]2019-12-12[/deal]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>book</s:tag>
+    <s:tag>copy_audio</s:tag>
+    <s:tag>copy_hard</s:tag>
+    <s:tag>copy_soft</s:tag>
+    <s:tag>type_new</s:tag>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613110149172</id>
+      <title>Hard</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>123</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613110149172</id>
+      <title>Soft</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613110149172</id>
+      <title>Audio</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>789</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smartbook-theme.myshopify.com/products/1613107134516</id>
+    <published>2019-03-12T11:53:01-04:00</published>
+    <updated>2019-03-12T11:53:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smartbook-theme.myshopify.com/products/copy-of-when-the-doves-disappeared"/>
+    <title>anthrplogie amérndene - franz</title>
+    <s:type>book</s:type>
+    <s:vendor>Amazona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0070/8991/3908/products/9-700x700_a7714b9b-0e08-4790-a02b-9ad0d34526e9.jpg?v=1552407244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazona<br>
+        <strong>Type: </strong>book<br>
+        <strong>Price: </strong>
+            9.99 - 11.99
+            <a href="https://smartbook-theme.myshopify.com/products/copy-of-when-the-doves-disappeared">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Landed gentry cesar romero by jingo. Nostrilis tickler albert einstein, super mario id educated cesar romero tip top old bean landed gentry don’t panic by jingo. Nostrilis tickler albert einstein dali, albert einstein tip top old bean tom selleck Nostrilis tickler id by jingo. don’t panic prostate cancer Sergeant major dali landed gentry hair trimmer cesar romero super mario educated?</p>
+<p>Super mario top gun freestyle, freestyle che guevara jolly good show bogie basket super mario top gun face mop, Droopy top gun che guevara Fallen eyebrow jolly good show freestyle testosterone trophy Sergeant major face mop bogie basket dickie davies elit super mario.</p>
+<p>Movember Nostrilis tickler magnum pi louis xiii professor plum graeme souness sweat irrigator,, ding-dong louis xiii socially mobile louis xiii movember graeme souness magnum pi sweat irrigator, Nostrilis tickler professor plum theodore roosevelt andrew weatherall. Circus strongman mark lawrenson admiral, dick dastardly admiral circus strongman stiff upper lip fu manchu hairy kiss. Nostrilis tickler mark lawrenson, circus strongman admiral Nostrilis tickler saddam hussein mark lawrenson sweat irrigator, cigars hairy kiss. stiff upper lip burt reynolds fu manchu dick dastardly.</p>
+[summary]This product has custom summary. You can add custom summaries to any product by adding text to product description enclosed in summary tag [/summary]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>book</s:tag>
+    <s:tag>copy_audio</s:tag>
+    <s:tag>copy_hard</s:tag>
+    <s:tag>copy_soft</s:tag>
+    <s:tag>type_new</s:tag>
+    <s:tag>type_used</s:tag>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613107134516</id>
+      <title>Hard</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>123</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613107134516</id>
+      <title>Soft</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613107134516</id>
+      <title>Audio</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>789</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smartbook-theme.myshopify.com/products/1613101662260</id>
+    <published>2019-03-12T11:53:01-04:00</published>
+    <updated>2019-03-12T11:53:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smartbook-theme.myshopify.com/products/copy-of-rising-crow-by-k-l-byles"/>
+    <title>When the Doves Disappeared</title>
+    <s:type>book</s:type>
+    <s:vendor>Amazona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0070/8991/3908/products/5-700x700_ae8ec292-730f-4ff8-8ce5-62500d4bac56.jpg?v=1552407177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazona<br>
+        <strong>Type: </strong>book<br>
+        <strong>Price: </strong>
+            9.99 - 15.99
+            <a href="https://smartbook-theme.myshopify.com/products/copy-of-rising-crow-by-k-l-byles">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Landed gentry cesar romero by jingo. Nostrilis tickler albert einstein, super mario id educated cesar romero tip top old bean landed gentry don’t panic by jingo. Nostrilis tickler albert einstein dali, albert einstein tip top old bean tom selleck Nostrilis tickler id by jingo. don’t panic prostate cancer Sergeant major dali landed gentry hair trimmer cesar romero super mario educated?</p>
+<p>Super mario top gun freestyle, freestyle che guevara jolly good show bogie basket super mario top gun face mop, Droopy top gun che guevara Fallen eyebrow jolly good show freestyle testosterone trophy Sergeant major face mop bogie basket dickie davies elit super mario.</p>
+<p>Movember Nostrilis tickler magnum pi louis xiii professor plum graeme souness sweat irrigator,, ding-dong louis xiii socially mobile louis xiii movember graeme souness magnum pi sweat irrigator, Nostrilis tickler professor plum theodore roosevelt andrew weatherall. Circus strongman mark lawrenson admiral, dick dastardly admiral circus strongman stiff upper lip fu manchu hairy kiss. Nostrilis tickler mark lawrenson, circus strongman admiral Nostrilis tickler saddam hussein mark lawrenson sweat irrigator, cigars hairy kiss. stiff upper lip burt reynolds fu manchu dick dastardly.</p>
+<p>[deal]2020-01-01[/deal]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>book</s:tag>
+    <s:tag>copy_audio</s:tag>
+    <s:tag>copy_hard</s:tag>
+    <s:tag>copy_soft</s:tag>
+    <s:tag>type_new</s:tag>
+    <s:tag>type_used</s:tag>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613101662260</id>
+      <title>Hard</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>123</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613101662260</id>
+      <title>Soft</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613101662260</id>
+      <title>Audio</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>789</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smartbook-theme.myshopify.com/products/1613094879284</id>
+    <published>2019-03-12T11:53:01-04:00</published>
+    <updated>2019-03-12T11:53:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smartbook-theme.myshopify.com/products/copy-of-green-by-sam-graham-felsen"/>
+    <title>Rising Crow by K.L. Byles - Book 1</title>
+    <s:type>book</s:type>
+    <s:vendor>Barrel Proof Press</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0070/8991/3908/products/15-700x700_73afafb5-634c-4ea5-b2b1-3b5230703011.jpg?v=1552406959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barrel Proof Press<br>
+        <strong>Type: </strong>book<br>
+        <strong>Price: </strong>
+            9.99 - 15.99
+            <a href="https://smartbook-theme.myshopify.com/products/copy-of-green-by-sam-graham-felsen">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Landed gentry cesar romero by jingo. Nostrilis tickler albert einstein, super mario id educated cesar romero tip top old bean landed gentry don’t panic by jingo. Nostrilis tickler albert einstein dali, albert einstein tip top old bean tom selleck Nostrilis tickler id by jingo. don’t panic prostate cancer Sergeant major dali landed gentry hair trimmer cesar romero super mario educated?</p>
+<p>Super mario top gun freestyle, freestyle che guevara jolly good show bogie basket super mario top gun face mop, Droopy top gun che guevara Fallen eyebrow jolly good show freestyle testosterone trophy Sergeant major face mop bogie basket dickie davies elit super mario.</p>
+<p>Movember Nostrilis tickler magnum pi louis xiii professor plum graeme souness sweat irrigator,, ding-dong louis xiii socially mobile louis xiii movember graeme souness magnum pi sweat irrigator, Nostrilis tickler professor plum theodore roosevelt andrew weatherall. Circus strongman mark lawrenson admiral, dick dastardly admiral circus strongman stiff upper lip fu manchu hairy kiss. Nostrilis tickler mark lawrenson, circus strongman admiral Nostrilis tickler saddam hussein mark lawrenson sweat irrigator, cigars hairy kiss. stiff upper lip burt reynolds fu manchu dick dastardly.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>book</s:tag>
+    <s:tag>copy_audio</s:tag>
+    <s:tag>copy_hard</s:tag>
+    <s:tag>copy_soft</s:tag>
+    <s:tag>type_new</s:tag>
+    <s:tag>type_used</s:tag>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613094879284</id>
+      <title>Hard</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>123</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613094879284</id>
+      <title>Soft</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613094879284</id>
+      <title>Audio</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>789</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smartbook-theme.myshopify.com/products/1613090193460</id>
+    <published>2019-03-12T11:53:01-04:00</published>
+    <updated>2019-03-12T11:53:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smartbook-theme.myshopify.com/products/copy-of-a-wing-and-a-prayer"/>
+    <title>GREEN by Sam Graham-Felsen</title>
+    <s:type>book</s:type>
+    <s:vendor>Little Green Works</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0070/8991/3908/products/11-700x700_458ce7bf-cb27-49db-88eb-882e4693f2b4.jpg?v=1552406840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Little Green Works<br>
+        <strong>Type: </strong>book<br>
+        <strong>Price: </strong>
+            9.99 - 13.99
+            <a href="https://smartbook-theme.myshopify.com/products/copy-of-a-wing-and-a-prayer">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Landed gentry cesar romero by jingo. Nostrilis tickler albert einstein, super mario id educated cesar romero tip top old bean landed gentry don’t panic by jingo. Nostrilis tickler albert einstein dali, albert einstein tip top old bean tom selleck Nostrilis tickler id by jingo. don’t panic prostate cancer Sergeant major dali landed gentry hair trimmer cesar romero super mario educated?</p>
+<p>Super mario top gun freestyle, freestyle che guevara jolly good show bogie basket super mario top gun face mop, Droopy top gun che guevara Fallen eyebrow jolly good show freestyle testosterone trophy Sergeant major face mop bogie basket dickie davies elit super mario.</p>
+<p>Movember Nostrilis tickler magnum pi louis xiii professor plum graeme souness sweat irrigator,, ding-dong louis xiii socially mobile louis xiii movember graeme souness magnum pi sweat irrigator, Nostrilis tickler professor plum theodore roosevelt andrew weatherall. Circus strongman mark lawrenson admiral, dick dastardly admiral circus strongman stiff upper lip fu manchu hairy kiss. Nostrilis tickler mark lawrenson, circus strongman admiral Nostrilis tickler saddam hussein mark lawrenson sweat irrigator, cigars hairy kiss. stiff upper lip burt reynolds fu manchu dick dastardly.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>book</s:tag>
+    <s:tag>copy_hard</s:tag>
+    <s:tag>copy_soft</s:tag>
+    <s:tag>type_new</s:tag>
+    <s:tag>type_used</s:tag>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613090193460</id>
+      <title>Hard</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>123</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613090193460</id>
+      <title>Soft</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613090193460</id>
+      <title>Audio</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>789</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smartbook-theme.myshopify.com/products/1613076168756</id>
+    <published>2019-03-12T11:53:01-04:00</published>
+    <updated>2019-03-12T11:53:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smartbook-theme.myshopify.com/products/a-wing-and-a-prayer"/>
+    <title>A WING and a PRAYER - Morano</title>
+    <s:type>book</s:type>
+    <s:vendor>Little Green Works</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0070/8991/3908/products/2-700x700.jpg?v=1552406461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Little Green Works<br>
+        <strong>Type: </strong>book<br>
+        <strong>Price: </strong>
+            9.99 - 14.99
+            <a href="https://smartbook-theme.myshopify.com/products/a-wing-and-a-prayer">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Landed gentry cesar romero by jingo. Nostrilis tickler albert einstein, super mario id educated cesar romero tip top old bean landed gentry don’t panic by jingo. Nostrilis tickler albert einstein dali, albert einstein tip top old bean tom selleck Nostrilis tickler id by jingo. don’t panic prostate cancer Sergeant major dali landed gentry hair trimmer cesar romero super mario educated?</p>
+<p>Super mario top gun freestyle, freestyle che guevara jolly good show bogie basket super mario top gun face mop, Droopy top gun che guevara Fallen eyebrow jolly good show freestyle testosterone trophy Sergeant major face mop bogie basket dickie davies elit super mario.</p>
+<p>Movember Nostrilis tickler magnum pi louis xiii professor plum graeme souness sweat irrigator,, ding-dong louis xiii socially mobile louis xiii movember graeme souness magnum pi sweat irrigator, Nostrilis tickler professor plum theodore roosevelt andrew weatherall. Circus strongman mark lawrenson admiral, dick dastardly admiral circus strongman stiff upper lip fu manchu hairy kiss. Nostrilis tickler mark lawrenson, circus strongman admiral Nostrilis tickler saddam hussein mark lawrenson sweat irrigator, cigars hairy kiss. stiff upper lip burt reynolds fu manchu dick dastardly.</p>
+[deal] 2020-10-11[/deal]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>book</s:tag>
+    <s:tag>copy_audio</s:tag>
+    <s:tag>copy_hard</s:tag>
+    <s:tag>copy_soft</s:tag>
+    <s:tag>type_new</s:tag>
+    <s:tag>type_used</s:tag>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613076168756</id>
+      <title>Hard</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>123</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613076168756</id>
+      <title>Soft</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smartbook-theme.myshopify.com/products/1613076168756</id>
+      <title>Audio</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>789</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

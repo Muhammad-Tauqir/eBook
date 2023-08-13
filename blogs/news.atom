@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://smartbook-theme.myshopify.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://smartbook-theme.myshopify.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://smartbook-theme.myshopify.com/blogs/news.atom"/>
+  <title>SmartBook - eBooks , Bookstore Shopify Theme - News</title>
+  <updated>2019-03-11T10:45:00-04:00</updated>
+  <author>
+    <name>SmartBook - eBooks , Bookstore Shopify Theme</name>
+  </author>
+  <entry>
+    <id>https://smartbook-theme.myshopify.com/blogs/news/how-to-grow-epiphytic-tropical-plants</id>
+    <published>2019-03-11T10:45:00-04:00</published>
+    <updated>2019-03-11T10:45:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smartbook-theme.myshopify.com/blogs/news/how-to-grow-epiphytic-tropical-plants"/>
+    <title>How to Grow Epiphytic Tropical Plants</title>
+    <author>
+      <name>smartbook-theme Admin</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Maria Denardo is the Fashion Director at theFashionSpot. Prior to joining tFS, she worked as the Site Director at Lifestyle Mirror and the Senior Fashion Editor at Fashion Week Daily. Her "unhealthy attachment" to hats led her to the halls of FIT, where she's currently completing her millinery certification. She proves that turbans never, ever go out of style.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://smartbook-theme.myshopify.com/blogs/news/how-to-pot-up-and-care-for-juvenile</id>
+    <published>2019-03-11T10:43:00-04:00</published>
+    <updated>2019-03-11T10:43:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smartbook-theme.myshopify.com/blogs/news/how-to-pot-up-and-care-for-juvenile"/>
+    <title>How To Pot Up and Care For Juvenile</title>
+    <author>
+      <name>smartbook-theme Admin</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Virtual reality and 3-D technology are already well-established in the entertainment industry. Now, the fashion industry is not-so-slowly adopting the same cutting-edge tech in its eternal quest for something new and different. Designer Iris van Herpen has long been experimenting with 3-D printing and Tommy Hilfiger introduced virtual reality headsets to his stores to let shoppers experience the runway show. Even Sephora has a new version of its app that allows you to “try on” makeup virtually.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://smartbook-theme.myshopify.com/blogs/news/how-to-water-and-care-for-mounted</id>
+    <published>2019-03-11T10:40:00-04:00</published>
+    <updated>2019-03-11T10:41:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smartbook-theme.myshopify.com/blogs/news/how-to-water-and-care-for-mounted"/>
+    <title>How to Water and Care for Mounted</title>
+    <author>
+      <name>smartbook-theme Admin</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Virtual reality and 3-D technology are already well-established in the entertainment industry. Now, the fashion industry is not-so-slowly adopting the same cutting-edge tech in its eternal quest for something new and different. Designer Iris van Herpen has long been experimenting with 3-D printing and Tommy Hilfiger introduced virtual reality headsets to his stores to let shoppers experience the runway show. Even Sephora has a new version of its app that allows you to “try on” makeup virtually.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://smartbook-theme.myshopify.com/blogs/news/list-of-pumpkin-spice-everything-for-2018</id>
+    <published>2019-03-11T10:39:00-04:00</published>
+    <updated>2019-03-11T10:46:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smartbook-theme.myshopify.com/blogs/news/list-of-pumpkin-spice-everything-for-2018"/>
+    <title>List of Pumpkin Spice Everything for 2018</title>
+    <author>
+      <name>smartbook-theme Admin</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Maria Denardo is the Fashion Director at theFashionSpot. Prior to joining tFS, she worked as the Site Director at Lifestyle Mirror and the Senior Fashion Editor at Fashion Week Daily. Her "unhealthy attachment" to hats led her to the halls of FIT, where she's currently completing her millinery certification. She proves that turbans never, ever go out of style.</p>
+<p>Maria Denardo is the Fashion Director at theFashionSpot. Prior to joining tFS, she worked as the Site Director at Lifestyle Mirror and the Senior Fashion Editor at Fashion Week Daily. Her "unhealthy attachment" to hats led her to the halls of FIT, where she's currently completing her millinery certification. She proves that turbans never, ever go out of style.</p>]]>
+    </content>
+  </entry>
+</feed>
